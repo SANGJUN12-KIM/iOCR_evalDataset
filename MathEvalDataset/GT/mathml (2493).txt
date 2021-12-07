@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mover><mrow><mi>S</mi></mrow><mo stretchy="false">&#x0007E;</mo></mover><mrow><mover><mrow><mi>k</mi></mrow><mo stretchy="false">&#x0007E;</mo></mover></mrow></msub><mo>&#x0003D;</mo><mi>Q</mi></mrow></math>

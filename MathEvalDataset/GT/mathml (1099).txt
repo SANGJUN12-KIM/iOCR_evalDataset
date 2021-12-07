@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mo>&#x0222B;</mo><msup><mi>d</mi><mrow><mn>4</mn></mrow></msup><mi>x</mi><msub><mi>&#x00394;</mi><mrow><mn>2</mn></mrow></msub><msup><mi>O</mi><mrow><mi>&#x003B1;</mi></mrow></msup><mo stretchy="false">[</mo><mi>A</mi><mo stretchy="false">]</mo><mo>&#x02261;</mo><mn>0</mn></mrow></math>

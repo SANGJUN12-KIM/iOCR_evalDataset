@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msup><mrow><mi mathvariant="script">C</mi></mrow><mrow><mi>&#x02032;</mi></mrow></msup><mo>&#x0003D;</mo><msup><mi>U</mi><mrow><mi>T</mi></mrow></msup><mrow><mi mathvariant="script">C</mi></mrow><mi>U</mi><mspace width="0.167em" /><mo>&#x0002E;</mo></mrow></math>

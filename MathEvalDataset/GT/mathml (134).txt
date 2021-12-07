@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mrow><mfrac><mrow><msup><mi>d</mi><mrow><mn>2</mn></mrow></msup><mi>&#x003C6;</mi></mrow><mrow><mi>d</mi><msup><mi>&#x003C4;</mi><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow><mo>&#x0003D;</mo><mi>sin</mi><mi>&#x003C6;</mi><mtext>&#x000A0;</mtext><mo>&#x0002C;</mo></mrow></math>

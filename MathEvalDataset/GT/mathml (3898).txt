@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>&#x00398;</mi><mo>&#x0003D;</mo><mi>log</mi><mstyle displaystyle="true" scriptlevel="0"><mfrac><mrow><mn>4</mn><mi>N</mi></mrow><mrow><mrow><mi mathvariant="script">M</mi></mrow><mi>L</mi></mrow></mfrac></mstyle></mrow></math>

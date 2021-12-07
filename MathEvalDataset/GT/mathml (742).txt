@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn>1</mn><mn>6</mn><mi>&#x003C0;</mi><mrow><mi mathvariant="script">L</mi></mrow><mo>&#x0003D;</mo><mo>&#x02212;</mo><msup><mi>e</mi><mrow><mo>&#x02212;</mo><mrow><mi mathvariant="script">K</mi></mrow></mrow></msup><mi>R</mi><mo>&#x0002B;</mo><mo>&#x02026;</mo></mrow></math>

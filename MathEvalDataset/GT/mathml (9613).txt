@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>H</mi><mrow><mi>T</mi></mrow></msub><mo>&#x0003D;</mo><msub><mi>H</mi><mrow><mi>c</mi></mrow></msub><mo>&#x0002B;</mo><mo>&#x0222B;</mo><msup><mi>d</mi><mrow><mn>3</mn></mrow></msup><mi>x</mi><mi>&#x003BB;</mi><msub><mi>&#x00398;</mi><mrow><mn>1</mn></mrow></msub></mrow></math>

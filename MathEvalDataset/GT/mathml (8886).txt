@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>R</mi><mrow><mi>c</mi><mi>r</mi></mrow></msub><mo>&#x0003D;</mo><msub><mi>R</mi><mrow><mn>0</mn></mrow></msub><msup><mi>e</mi><mrow><mo>&#x02212;</mo><msub><mi>&#x003BB;</mi><mrow><mn>0</mn></mrow></msub><mo>&#x0002F;</mo><mi>&#x003BB;</mi></mrow></msup><mo>&#x0002C;</mo></mrow></math>

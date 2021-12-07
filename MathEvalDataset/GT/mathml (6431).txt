@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>i</mi><mi>g</mi><mi>sin</mi><mo stretchy="false">&#x00028;</mo><mi>&#x003BE;</mi><mi>p</mi><mover><mrow><mi>q</mi></mrow><mo stretchy="false">&#x0007E;</mo></mover><mo stretchy="false">&#x00029;</mo><msub><mi>&#x003B8;</mi><mrow><mi>&#x003BC;</mi><mi>&#x003BD;</mi></mrow></msub></mrow></math>

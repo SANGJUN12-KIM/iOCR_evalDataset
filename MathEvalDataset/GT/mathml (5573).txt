@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>sinh</mi><mi>&#x003C1;</mi><mspace width="0.167em" /><mi>sin</mi><mi>&#x003D5;</mi><mo>&#x0003D;</mo><mrow><mi>C</mi></mrow><mspace width="0.167em" /><mo>&#x0002E;</mo></mrow></math>

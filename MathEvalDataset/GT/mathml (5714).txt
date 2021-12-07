@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>s</mi><msub><mi>&#x003C9;</mi><mrow><mn>1</mn></mrow></msub><mo>&#x0003D;</mo><msub><mo>&#x02202;</mo><mrow><mi>i</mi></mrow></msub><msup><mi>k</mi><mrow><mi>i</mi></mrow></msup><mo>&#x0002C;</mo></mrow></math>

@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn>2</mn><msup><mo>&#x02202;</mo><mrow><mi>i</mi></mrow></msup><msubsup><mi>P</mi><mrow><mn>2</mn><mi>i</mi><mi>j</mi></mrow><mrow><mi>&#x02032;</mi></mrow></msubsup><mo>&#x02261;</mo><mn>0</mn><mo>&#x0002E;</mo></mrow></math>

@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>&#x003BC;</mi><mrow><mn>0</mn></mrow></msub><mi>&#x027F6;</mi><mo>&#x02261;</mo><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn><mi>&#x003C0;</mi><mspace width="0.167em" /><mi>g</mi><mspace width="0.167em" /><msqrt><mi>V</mi></msqrt></mrow></mfrac></mrow></mrow></math>

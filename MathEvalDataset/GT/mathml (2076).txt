@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mrow><mfrac><mrow><msup><mi>P</mi><mrow><mi>h</mi></mrow></msup></mrow><mrow><msup><mi>P</mi><mrow><mi>&#x003B6;</mi></mrow></msup></mrow></mfrac><mo>&#x0003D;</mo><mo>&#x02212;</mo><mn>8</mn></mrow><msub><mi>c</mi><mrow><mi>s</mi></mrow></msub><msub><mi>n</mi><mrow><mi>T</mi></mrow></msub></mrow></math>

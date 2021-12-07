@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msup><mrow><mi mathvariant="script">L</mi></mrow><mrow><mi>H</mi></mrow></msup><mo>&#x0003D;</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>8</mn></mrow></mfrac><msub><mi>F</mi><mrow><mi>k</mi></mrow></msub><msub><mi>F</mi><mrow><mi>k</mi></mrow></msub><mo>&#x0002C;</mo></mrow></math>

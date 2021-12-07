@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>q</mi><mrow><mrow><mi mathvariant="normal">e</mi></mrow></mrow></msub><msub><mi>q</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub><mo>&#x0003D;</mo><mn>2</mn><mi>&#x003C0;</mi><mi>n</mi><mi>&#x0210F;</mi><mtext>&#x000A0;</mtext><mo>&#x0002C;</mo></mrow></math>

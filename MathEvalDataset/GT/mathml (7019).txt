@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>d</mi><mi>f</mi><mo>&#x0003D;</mo><msub><mi>e</mi><mrow><mi>i</mi></mrow></msub><mi>f</mi><msup><mi>&#x003B8;</mi><mrow><mi>i</mi></mrow></msup></mrow></math>

@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mrow><mi mathvariant="bold">p</mi></mrow><mrow><mi>a</mi></mrow></msub><mo>&#x0003D;</mo><mfrac><mrow><mo>&#x02202;</mo><mi>L</mi></mrow><mrow><mo>&#x02202;</mo><msub><mrow><mi mathvariant="bold">v</mi></mrow><mrow><mi>a</mi></mrow></msub></mrow></mfrac><mo>&#x0002C;</mo></mrow></math>

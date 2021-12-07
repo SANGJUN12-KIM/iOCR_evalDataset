@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>\l</mi><mrow><mi>d</mi><mi>&#x00398;</mi><mi>\o</mi><mi>d</mi><mi>\l</mi></mrow><msup><mi>E</mi><mrow><mo stretchy="false">&#x00028;</mo><mi>n</mi><mo stretchy="false">&#x00029;</mo></mrow></msup><msup><mrow><mi>&#x00398;</mi></mrow><mrow><mo>&#x02212;</mo><mn>1</mn></mrow></msup></mrow></math>

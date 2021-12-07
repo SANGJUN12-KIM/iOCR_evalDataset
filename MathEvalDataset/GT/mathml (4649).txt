@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>A</mi><mo>&#x0003D;</mo><msub><mi>P</mi><mrow><mi mathvariant="script">H</mi></mrow></msub><mo stretchy="false">&#x00028;</mo><msup><mi>g</mi><mrow><mo>&#x02212;</mo><mn>1</mn></mrow></msup><mi>d</mi><mi>g</mi><mo stretchy="false">&#x00029;</mo><mo>&#x0002E;</mo></mrow></math>

@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>S</mi><mrow><mi>B</mi><mi>I</mi></mrow></msub><mo>&#x0003D;</mo><mo>&#x0222B;</mo><mi>d</mi><mi>t</mi><mi>d</mi><mi>&#x003B8;</mi><mi>d</mi><mi>&#x003D5;</mi><msub><mrow><mi mathvariant="script">L</mi></mrow><mrow><mi>B</mi><mi>I</mi></mrow></msub></mrow></math>

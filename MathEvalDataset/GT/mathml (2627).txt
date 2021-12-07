@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mrow><mi mathvariant="script">S</mi><mo stretchy="false">&#x00028;</mo></mrow><mi>&#x003A3;</mi><mrow><mo stretchy="false">&#x00029;</mo><mo mathvariant="script">&#x0003D;</mo><mspace width="0.278em" /></mrow><mn>0</mn><mspace width="0.278em" /><mo>&#x0002C;</mo></mrow></math>

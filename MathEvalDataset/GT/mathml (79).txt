@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mn>1</mn><mo>&#x0002B;</mo><mfrac><mrow><mn>2</mn><mi>&#x003C0;</mi><mi>&#x0039B;</mi><mi>G</mi></mrow><mrow><mn>9</mn><mi>&#x003B1;</mi></mrow></mfrac><mo>&#x0003E;</mo><mn>0</mn></mrow></math>

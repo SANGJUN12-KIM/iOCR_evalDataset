@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>l</mi><mo>&#x0003D;</mo><msub><mo>&#x0222B;</mo><mrow><mo>&#x02202;</mo><mi>&#x00393;</mi></mrow></msub><mi>exp</mi><mi>b</mi><mi>&#x003D5;</mi></mrow></math>

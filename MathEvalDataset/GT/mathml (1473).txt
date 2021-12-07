@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>M</mi><mo>&#x0003D;</mo><mi>m</mi><mo>&#x0002B;</mo><mfrac><mrow><mn>3</mn><mi>m</mi></mrow><mrow><mi>e</mi></mrow></mfrac><msub><mi>q</mi><mrow><mi>m</mi></mrow></msub><mi>sin</mi><mi>&#x003B2;</mi><mspace width="0.167em" /><mi>;</mi></mrow></math>

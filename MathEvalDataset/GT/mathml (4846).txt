@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>Z</mi><mo stretchy="false">[</mo><mi>&#x003B2;</mi><mo stretchy="false">]</mo><mi>&#x0007E;</mi><msup><mi>e</mi><mrow><mo>&#x02212;</mo><msup><mi>&#x003B2;</mi><mrow><mn>2</mn></mrow></msup><mo>&#x0002F;</mo><mn>1</mn><mn>6</mn><mi>&#x003C0;</mi></mrow></msup><mo>&#x0002E;</mo></mrow></math>

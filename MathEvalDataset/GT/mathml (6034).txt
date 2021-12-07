@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>m</mi><mo>&#x0003D;</mo><mfrac><mrow><mi>M</mi></mrow><mrow><mi>cos</mi><mrow><mi>&#x003B2;</mi></mrow></mrow></mfrac><mo>&#x0002C;</mo></mrow></math>

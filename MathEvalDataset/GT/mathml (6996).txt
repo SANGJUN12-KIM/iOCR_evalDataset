@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>M</mi><mo stretchy="false">&#x00028;</mo><mi>a</mi><mo>&#x0002C;</mo><mi>b</mi><mo>&#x0002C;</mo><mi>&#x003BE;</mi><mo stretchy="false">&#x00029;</mo><mi>\stackrel</mi><mrow><mi>&#x003BE;</mi><mo>&#x02192;</mo><mn>0</mn></mrow><mrow><mi>&#x027F6;</mi></mrow><mn>1</mn></mrow></math>

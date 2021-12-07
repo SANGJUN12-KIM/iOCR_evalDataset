@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msub><mi>T</mi><mrow><mrow><mi mathvariant="normal">h</mi><mi mathvariant="normal">o</mi><mi mathvariant="normal">r</mi></mrow></mrow></msub><mo>&#x0003D;</mo><mfrac><mrow><mi>&#x003BA;</mi></mrow><mrow><mn>2</mn><mi>&#x003C0;</mi></mrow></mfrac><mo>&#x0002E;</mo></mrow></math>

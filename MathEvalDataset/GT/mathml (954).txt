@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>&#x003A6;</mi><mo>&#x0003D;</mo><mfrac><mrow><mi>&#x003B3;</mi><mover><mrow><mi>&#x003B8;</mi></mrow><mo stretchy="false">&#x0005E;</mo></mover></mrow><mrow><msub><mi>N</mi><mrow><mi>c</mi></mrow></msub></mrow></mfrac><mtext>&#x000A0;</mtext><mo>&#x0002C;</mo></mrow></math>

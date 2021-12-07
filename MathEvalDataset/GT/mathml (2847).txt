@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mi>K</mi><mo>&#x0003D;</mo><mo>&#x02212;</mo><msqrt><mrow><mi>&#x0039B;</mi></mrow></msqrt><mspace width="0.278em" /><mfrac><mrow><mi>cos</mi><mi>&#x003BE;</mi></mrow><mrow><mi>sin</mi><mi>&#x003BE;</mi></mrow></mfrac><mo>&#x0002C;</mo></mrow></math>

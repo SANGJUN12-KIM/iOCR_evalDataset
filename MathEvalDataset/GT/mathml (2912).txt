@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><msup><mi>&#x003D5;</mi><mrow><mi>&#x02032;</mi></mrow></msup><msup><mi>e</mi><mrow><mi>&#x003B1;</mi><mi>&#x003D5;</mi><mo>&#x0002F;</mo><msub><mi>M</mi><mrow><mi>p</mi></mrow></msub></mrow></msup><mo>&#x0003D;</mo><mi>c</mi><mi>o</mi><mi>n</mi><mi>s</mi><mi>t</mi></mrow></math>
